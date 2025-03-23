@@ -1,18 +1,15 @@
-
 <script setup>
-//metodos
 import HelloWorld from './components/HelloWorld.vue';
 </script>
 
 <template>
- <!--estructura html-->
- <HelloWorld msg = "Vite + Vue" />
+    <pagina web/>
 </template>
 
+
 <style scoped>
-
-
 </style>
+
 
 
 
