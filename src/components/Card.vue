@@ -13,7 +13,9 @@
       </div>
       <div class="col-md-4">
         <div class="card">
-          <img src="https://getfit.mx/cdn/shop/files/IMG-0141.png?v=1735613264&width=533" class="card-img-top img-fixed" alt="Ejercicio en gimnasio">
+          <img src="https://getfit.mx/cdn/shop/files/IMG-0141.png?v=1735613264&width=533" class="card-img-top img-fluid rounded mx-auto d-block" 
+     style="max-width: 300px; max-height: 200px;" 
+     alt="Ejercicio en gimnasio">
           <div class="card-body text-center">
             <p class="card-text">Ropa de gym lo mejor d elo mejor youngla.</p>
             <button class="btn btn-warning">Mas informacion aqui</button>
@@ -22,7 +24,9 @@
       </div>
       <div class="col-md-4">
         <div class="card">
-          <img src="https://hips.hearstapps.com/hmg-prod/images/professional-bodybuilder-arnold-schwarzenegger-posing-at-news-photo-481406443-1547849341.jpg?resize=980:*"  class="card-img-top img-fluid rounded mx-auto d-block" 
+          <img src="https://hips.hearstapps.com/hmg-prod/images/professional-bodybuilder-arnold-schwarzenegger-posing-at-news-photo-481406443-1547849341.jpg?resize=980:*"   class="card-img-top img-fluid rounded mx-auto d-block" 
+     style="max-width: 300px; max-height: 200px;" 
+     alt="Ejercicio en gimnasio">
      style="max-width: 300px; max-height: 200px;" 
      alt="Ejercicio en gimnasio">
           <div class="card-body text-center">

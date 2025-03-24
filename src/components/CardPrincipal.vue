@@ -18,7 +18,7 @@
       <div class="col-md-6">
         <div class="card">
           <div class="card-header">
-            <h6>Máquinas</h6>
+            <h6>Máquinas del Gym</h6>
           </div>
           <div class="card-body">
             <p class="card-text">Desde las populares máquinas de cardio hasta las especializadas en musculación, cada dispositivo tiene un propósito específico que permite trabajar diferentes grupos musculares o mejorar el rendimiento cardiovascular. Esta diversidad no solo facilita personalizar los entrenamientos, sino que también garantiza que tanto principiantes como atletas avanzados encuentren el equipo adecuado para alcanzar sus metas.</p>
